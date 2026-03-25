@@ -60,6 +60,8 @@ export default {
           DEFAULT: "hsl(var(--banner-bg))",
           foreground: "hsl(var(--banner-foreground))",
         },
+        verified: "hsl(var(--verified))",
+        star: "hsl(var(--star))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
