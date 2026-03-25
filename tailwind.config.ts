@@ -50,7 +50,7 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        star: "hsl(var(--star))",
+        verified: "hsl(var(--verified))",
         discount: "hsl(var(--discount))",
         newsletter: {
           DEFAULT: "hsl(var(--newsletter-bg))",
