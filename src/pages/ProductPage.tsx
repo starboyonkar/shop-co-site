@@ -157,7 +157,7 @@ const ProductPage = () => {
                     </div>
                     <div className="flex items-center gap-1 mb-2">
                       <span className="font-bold">{review.name}</span>
-                      {review.verified && <span className="text-green-500">✓</span>}
+                      {review.verified && <span className="text-verified">✓</span>}
                     </div>
                     <p className="text-muted-foreground text-sm leading-relaxed mb-3">{review.text}</p>
                     <span className="text-muted-foreground text-xs">{review.date}</span>

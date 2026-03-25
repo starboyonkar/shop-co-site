@@ -120,7 +120,7 @@ const Index = () => (
             <StarRating rating={review.rating} size={18} />
             <div className="flex items-center gap-1 mt-3 mb-2">
               <span className="font-bold">{review.name}</span>
-              <span className="text-green-500">✓</span>
+              <span className="text-verified">✓</span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">{review.text}</p>
           </div>
