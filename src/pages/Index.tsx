@@ -40,7 +40,7 @@ const Index = () => (
           </div>
         </div>
         <div className="flex-1 relative hidden lg:block">
-          <img src={heroImage} alt="Fashion couple" className="w-full h-[600px] object-cover object-top" />
+          <img src={heroImage} alt="Fashion couple" className="w-full h-[600px] object-cover object-right-top" />
         </div>
       </div>
     </section>
